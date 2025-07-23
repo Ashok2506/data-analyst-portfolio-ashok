@@ -47,7 +47,7 @@ Here are a few insights observed from the dashboard:
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot](your-image-path.png)
+![Dashboard Screenshot](blinkit_dashboard.png.png)
 
 ---
 
