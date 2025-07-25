@@ -20,6 +20,7 @@ Welcome to my data analyst portfolio! I’m a Mechanical Engineering graduate wh
 
 | Project | Description | Tools |
 |--------|-------------|-------|
+| [Rainfall_trend_analysis](portfolio_projects/rainfall_trend_analysis_india) |  Rainfall Trends and Anomaly Detection in India (1901–2015). | Python, Scikit-learn, Matplotlib |
 | [Customer Segmentation](portfolio_projects/customer_segmentation) | Clustered customers using K-Means for marketing strategy. | Python, Scikit-learn, Matplotlib |
 | [Sales Dashboard](portfolio_projects/sales_dashboard) | Visualized regional sales performance using interactive dashboards. | Power BI, Excel |
 
