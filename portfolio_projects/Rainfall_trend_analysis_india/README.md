@@ -71,7 +71,7 @@ India is heavily reliant on the monsoon for agriculture and water supply. Howeve
 
 ---
 
-## 📊 Visualizations (See `images/` folder)
+## 📊 Visualizations 
 
 - Rolling Mean of Annual Rainfall
 - Monthly Rainfall Averages (Bar Graph)
